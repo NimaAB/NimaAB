@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### "Once you stop learning, you start dying" - Albert Enistein
+
 
 
 - 🔭 I’m currently studing at Oslo Metropolitan University for a bachelor degree on data-engineering.
@@ -9,3 +9,6 @@
 - 📫 How to reach me: nimabewrani98@gmail.com and s341890@oslomet.no 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like hearing lo-fi while coding.
+
+**"Once you stop learning, you start dying"** by Albert Enistein
+ 
