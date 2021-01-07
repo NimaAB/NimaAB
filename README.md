@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently studing at Oslo Metropolitan University for a bachelor degree on data-engineering.
-- 🌱 I’m currently learning javascript, backend with nodejs and Design Patterns. 
+- 🌱 I’m currently learning web programming, OS & linux, networking and cloud computing. 
 - 💬 Ask me about "Nothing actually". 
 - 📫 How to reach me: nimabewrani98@gmail.com and s341890@oslomet.no 
 - 😄 Pronouns: He/Him
